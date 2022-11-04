@@ -1,0 +1,1 @@
+In SVG format. 
